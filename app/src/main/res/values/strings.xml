@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LipArt</string>
+    <string name="title_home">Home</string>
+    <string name="title_circle">Circle</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_buy">Buy</string>
+    <string name="title_snap">Try</string>
+</resources>
